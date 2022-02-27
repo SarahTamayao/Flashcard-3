@@ -8,7 +8,8 @@ This flashcard app that was created displays a question to the user and allows t
 
 ### App Walk-though
 
-<img src="/Users/madisondegrezia/Downloads/MadisonDeGreziaLab1.gif" width=200><br>
+<img src="![MadisonDeGreziaLab1](https://user-images.githubusercontent.com/89614960/155896915-e9bf23a1-8f92-4b63-90b4-104ddeebb2e5.gif)" width=200><br>
+
 
 
 
