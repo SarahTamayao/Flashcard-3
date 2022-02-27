@@ -21,4 +21,4 @@ This flashcard app that was created displays a question to the user and allows t
 ## Optional
 - [x] Toggle the flashcard between the question side and the answer side
 - [x] Style the question and answer side of the card to better distinguish between the two sides
-- [x] Add selectable multiple choice answers beneath the card
+- [x] Add selectable multiple choice answers beneath the card   
