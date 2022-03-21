@@ -41,9 +41,9 @@ class CreationViewController: UIViewController {
         
         let answerText = answerTextField.text
         
-        let extraAnswerText1 = ExtraAnswerField1.text
+        let extraAnswer1 = ExtraAnswerField1.text
         
-        let extraAnswerText2 = ExtraAnswerField2.text
+        let extraAnswer2 = ExtraAnswerField2.text!
         
         if questionText == nil || answerText == nil || questionText!.isEmpty || answerText!.isEmpty {
             // show error
@@ -54,8 +54,13 @@ class CreationViewController: UIViewController {
             let okAction = UIAlertAction(title: "Ok", style: .default)
             alert.addAction(okAction)
         } else {
+            // See if it's existing
+            var isExisting = false
+            if initialQuestion != nil {
+                isExisting = true
+            }
         
-            flashcardsController.updateFlashcard(question: questionText!, answer: answerText!, extraAnswerText1: extraAnswerText1 , extraAnswerText2: extraAnswerText2)
+            flashcardsController.updateFlashcard(question: questionText!, answer: answerText!, extraAnswer1: extraAnswer1!, extraAnswer2: extraAnswer2, isExisting: isExisting)
         
         dismiss(animated: true)
         }
