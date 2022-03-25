@@ -1,5 +1,25 @@
 ## Flashcard App
 
+## Lab 3
+
+### App Description
+Adding on to the Flashcards project, the user is permitted to browse through multiple flashcards and re-open the app to see the flashcards that they previously created that were saved to the disk. The app also gives the user the option to delete a card or edit a card that was created before closing the app. 
+
+### App Walk-though
+![Lab3](https://user-images.githubusercontent.com/89614960/160049163-74c6cf4c-deaf-4278-8a2e-597097d15034.gif)
+
+
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+## Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+## Optional
+- [x] User can delete a flashcard
+- [x] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
 ## Lab 2
 
 ### App Description
