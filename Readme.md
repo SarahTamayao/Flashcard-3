@@ -9,8 +9,6 @@ Adding on to the Flashcards project, the user is permitted to browse through mul
 ![Lab3](https://user-images.githubusercontent.com/89614960/160049163-74c6cf4c-deaf-4278-8a2e-597097d15034.gif)
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
-
 ## Required
 - [x] User can browse through multiple flashcards
 - [x] User can re-open the app and see previously created flashcards
