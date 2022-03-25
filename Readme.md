@@ -3,7 +3,7 @@
 ## Lab 3
 
 ### App Description
-Adding on to the Flashcards project, the user is permitted to browse through multiple flashcards and re-open the app to see the flashcards that they previously created that were saved to the disk. The app also gives the user the option to delete a card or edit a card that was created before closing the app. 
+Adding on to the Flashcards project, the user is permitted to browse through multiple flashcards and re-open the app to see the flashcards that they previously created and saved to the disk. The app also gives the user the option to delete a card or edit a card that was created before closing the app. 
 
 ### App Walk-though
 ![Lab3](https://user-images.githubusercontent.com/89614960/160049163-74c6cf4c-deaf-4278-8a2e-597097d15034.gif)
