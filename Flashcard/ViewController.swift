@@ -97,6 +97,10 @@ class ViewController: UIViewController {
     func updateFlashcard(question: String, answer: String, extraAnswer1: String?, extraAnswer2: String?, isExisting: Bool) {
         
         let flashcard = Flashcard(question: question, answer: answer)
+        
+        btnOption1.setTitle(extraAnswer1, for: .normal)
+        btnOption2.setTitle(answer, for: .normal)
+        btnOption3.setTitle(extraAnswer2, for: .normal)
     
         if isExisting {
             // Replace existing flashcard
@@ -151,6 +155,8 @@ class ViewController: UIViewController {
         // Update labels
         frontLabel.text = currentFlashcard.question
         backLabel.text = currentFlashcard.answer
+        
+        
     }
     
     func saveAllFlashcardsToDisk() {
