@@ -76,7 +76,8 @@ class ViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
+   
+        //
         // First start with the flashcard invisible and slightly smaller in size
         card.alpha = 0.0
         card.transform = CGAffineTransform.identity.scaledBy(x: 0.75, y: 0.75)
