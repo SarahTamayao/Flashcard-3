@@ -3,7 +3,7 @@
 ## Lab 4
 
 ### App Description
-For this final part of the Flashcard project, a custom app icon was displayed to the user, along with a splash screen. Simple animations were added that flipped the flashcard when tapping on it to reveal the answer, as well as sliding animations when going from one flashcard to the next. Moreover, additional icons were added for the previous, next, and plus buttons to make the app more creative and visually appealing.
+For this final part of the Flashcard project, a custom app icon was displayed to the user, along with a splash screen. Simple animations were added that flipped the flashcard when tapping on it to reveal the answer, as well as sliding animations when going from one flashcard to the next. Moreover, additional icons were added for the previous, next, and plus buttons to make the app more creative and visually appealing. The cards are now stylized and the app is able to adapt to the different screen sizes on numerous devices by resizing itself.
 
 ## Required
 - [x] User should see the app icon 
