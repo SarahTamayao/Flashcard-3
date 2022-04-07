@@ -201,7 +201,6 @@ class ViewController: UIViewController {
         
         // Save new flashcards
         saveAllFlashcardsToDisk()
-        
     }
     
     func updateNextPrevButtons() {
@@ -229,8 +228,6 @@ class ViewController: UIViewController {
         // Update labels
         frontLabel.text = currentFlashcard.question
         backLabel.text = currentFlashcard.answer
-        
-        
     }
     
     func saveAllFlashcardsToDisk() {
