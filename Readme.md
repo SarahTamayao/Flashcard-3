@@ -1,5 +1,26 @@
 ## Flashcard App
 
+## Lab 4
+
+### App Description
+For this final part of the Flashcard project, a custom app icon was displayed to the user, along with a splash screen. Simple animations were added that flipped the flashcard when tapping on it to reveal the answer, as well as sliding animations when going from one flashcard to the next. Moreover, additional icons were added for the previous, next, and plus buttons to make the app more creative and visually appealing. The cards are now stylized and the app is able to adapt to the different screen sizes on numerous devices by resizing itself.
+
+### App Walk-though
+![Lab4](https://user-images.githubusercontent.com/89614960/162106300-c5051353-6860-40df-af2b-b91e977f8954.gif)
+
+
+## Required
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
+## Optional
+- [x] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [x] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
+
 ## Lab 3
 
 ### App Description
