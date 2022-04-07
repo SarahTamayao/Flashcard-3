@@ -220,6 +220,7 @@ class ViewController: UIViewController {
         }
     }
     
+    
     func updateLabels() {
         
         // Get current flashcard
